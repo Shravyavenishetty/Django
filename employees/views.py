@@ -1,4 +1,3 @@
-from django.shortcuts import render
 from employees.models import Employee
 from django.shortcuts import get_object_or_404
 from django.http import HttpResponse
